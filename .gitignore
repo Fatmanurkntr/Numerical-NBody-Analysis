@@ -1,0 +1,9 @@
+# Python derleme dosyaları
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints (Çok önemli!)
+.ipynb_checkpoints
+
+# Sanal ortam dosyaları (venv)
+/venv
